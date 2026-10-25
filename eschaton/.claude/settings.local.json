@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 crop_to_O.py)",
+      "Bash(/bin/cp /Users/slaplante/Dropbox/Documents/Projects/embroidery/eschaton/eschaton-only-O.svg.bak /Users/slaplante/Dropbox/Documents/Projects/embroidery/eschaton/eschaton-only-O.svg)",
+      "Bash(python3 /Users/slaplante/Dropbox/Documents/Projects/embroidery/eschaton/crop_to_O.py)"
+    ]
+  }
+}

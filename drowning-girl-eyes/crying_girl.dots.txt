@@ -1,0 +1,26 @@
+# Hand edits for crying_girl: 'keep SX SY' or 'remove SX SY' in SOURCE image pixels (source/crying_girl.jpg).
+# The nearest grid dot is forced in or out. Coordinates of drawn dots: output/crying_girl/dots.txt (cols 3-4).
+# Dots marked as wrongly placed (inner corner of the left eye and the pocket below the tear):
+remove 122.9 190.4
+remove 125.7 193.1
+remove 128.4 190.4
+remove 131.2 193.1
+remove 133.9 190.4
+remove 133.9 195.9
+remove 136.7 187.6
+remove 136.7 193.1
+remove 139.5 190.4
+remove 139.5 195.9
+remove 142.2 187.6
+remove 142.2 193.1
+remove 145.0 190.4
+remove 145.0 195.9
+remove 145.0 217.9
+remove 147.7 187.6
+remove 147.7 193.1
+remove 147.7 215.2
+remove 147.7 220.7
+remove 150.5 190.4
+remove 150.5 212.4
+remove 150.5 217.9
+remove 153.2 215.2
